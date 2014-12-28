@@ -1,0 +1,37 @@
+{
+    "data": {
+        "firstName": "chongkai",
+        "icon": "http://jxfile.qiniudn.com/1418784361735Hi8VQ0O3zK.jpg",
+        "lastName": "zhang",
+        "story": {
+            "comments": [
+                {
+                    "comment": "这个邮寄太漂亮了",
+                    "firstName": "aobo",
+                    "icon": "http://jxfile.qiniudn.com/1418784361735Hi8VQ0O3zK.jpg",
+                    "lastName": "jia",
+                    "start": 1,
+                    "time": 1419766329203,
+                    "userId": 0
+                }
+            ],
+            "coverDes": "这是一个测试",
+            "coverUrl": "http://jxfile.qiniudn.com/1418958528173hKnefFDPvs.jpg",
+            "pics": [
+                {
+                    "desc": "这是一幅美丽的图片",
+                    "pic": "http://jxfile.qiniudn.com/14189588051584B1NQEb9SP.jpg"
+                },
+                {
+                    "desc": "这是dier幅美丽的图片",
+                    "pic": "http://jxfile.qiniudn.com/1418959047459mi0Y9gZfV5.jpg"
+                }
+            ],
+            "storyId": 1241,
+            "time": 1419766329203
+        },
+        "userId": 11
+    },
+    "message": "获取story成功",
+    "state": 0
+}
