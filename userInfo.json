@@ -1,0 +1,32 @@
+{
+    "info": {
+        "address": "xi'an",
+        "firstName": "chongkai",
+        "icon": "http://jxfile.qiniudn.com/1418784361735Hi8VQ0O3zK.jpg",
+        "intro": "这是我为什么使用这个的原因 不拉不拉不拉",
+        "lastName": "zhang",
+        "sex": "F"
+    },
+    "skills": {
+        "address": "Bengjing,Shanghai",
+        "car": "HAVAL 2",
+        "driverAge": 2,
+        "job": "Software En",
+        "language": "Chinese,English"
+    },
+    "userId": 123,
+    "verifications": [
+        {
+            "account": "skghimt@126.com",
+            "verificationInfo": "",
+            "verificationTerrace": "email",
+            "verificationTime": 1419751547301
+        },
+        {
+            "account": "skghimt@126.com",
+            "verificationInfo": "凯_SkgHimT",
+            "verificationTerrace": "weibo",
+            "verificationTime": 1419751547301
+        }
+    ]
+}

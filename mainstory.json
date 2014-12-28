@@ -1,0 +1,29 @@
+    {
+        "data": 
+          "hasMore":true,
+          “users”:[
+              {
+              "userId":12313,
+              "firstName":"firstName",
+              "lastName":"lastName",
+              "icon":"http://1231231311313.jpg",
+              "storys":[
+                  {
+                      "storyId":123123,
+                      "coverPic":"http://1231231311313.jpg",
+                      "coverDesc":"desc"
+
+                  },
+                  {
+                      "storyId":123123,
+                      "coverPic":"http://1231231311313.jpg",
+                      "coverDesc":"desc"
+
+                  }...
+              ]
+
+            }...
+        ],
+        "message": "",
+        "state": 0
+    }  
