@@ -1,0 +1,43 @@
+{
+    "data": {
+	"conversations":[{
+		"userInfo":{
+			"userId":123123
+        		"firstName": "chongkai",
+        		"icon": "http://jxfile.qiniudn.com/1418784361735Hi8VQ0O3zK.jpg",
+        		"lastName": "zhang"
+		}
+		"relationId":124124,
+        	"latest": {
+			"content":"聊天内容",
+			"time":124124124124,
+			"sender":{
+				"userId":123123,
+				"firstName": "chongkai",
+				"icon": "http://jxfile.qiniudn.com/1418784361735Hi8VQ0O3zK.jpg",
+        			"lastName": "zhang"
+			}
+		}
+	},{
+                "userInfo":{
+                        "userId":1231232
+                        "firstName": "chongkai",
+                        "icon": "http://jxfile.qiniudn.com/1418784361735Hi8VQ0O3zK.jpg",
+                        "lastName": "zhang"
+                }
+                "relationId":124124,
+                "latest": {
+                        "content":"聊天内容",
+                        "time":124124124124,
+                        "sender":{
+                                "userId":123123,
+                                "firstName": "chongkai",
+                                "icon": "http://jxfile.qiniudn.com/1418784361735Hi8VQ0O3zK.jpg",
+                                "lastName": "zhang"
+                        }
+                }
+        }]
+    },
+    "message": "获取story成功",
+    "state": 0
+}

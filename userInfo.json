@@ -1,6 +1,11 @@
 {
     "data": {
+	"contributions":{
+	   "storyCount":25,
+	   "touristSaved":24
+	}
         "info": {
+	    "userId":1233,
             "address": "xi'an",
             "firstName": "chongkai",
             "icon": "http://jxfile.qiniudn.com/1418784361735Hi8VQ0O3zK.jpg",

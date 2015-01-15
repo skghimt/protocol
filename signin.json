@@ -1,5 +1,11 @@
     {
         "data": {
+	    "userInfo":{
+		"userId":123123,
+           	 "firstName": "chongkai",
+            	"icon": "http://jxfile.qiniudn.com/1418784361735Hi8VQ0O3zK.jpg",
+            	"lastName": "zhang"
+	    }
             "session": "886b237359d4a53ac3572fa81075cc17"
         },
         "message": "登陆正常",
